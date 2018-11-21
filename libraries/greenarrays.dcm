@@ -5,4 +5,9 @@ D GreenArrays GA144A12 Processor (Library (c)2014 by Aaron Kondziela, MIT Licens
 K GA144,GA144A12,GreenArrays
 $ENDCMP
 #
+$CMP GA4
+D GreenArrays GA4 multi-computer chip
+K GA4
+$ENDCMP
+#
 #End Doc Library
